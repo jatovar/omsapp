@@ -1,0 +1,2 @@
+# omsapp
+ruby on rails
